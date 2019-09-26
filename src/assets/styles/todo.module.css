@@ -1,0 +1,20 @@
+.todoContainer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10em;
+}
+
+.todoInputHeader,
+.todoListHeader {
+    text-decoration: underline;
+}
+
+.todoForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.todoList {
+    display: flex;
+    flex-direction: column;
+}
